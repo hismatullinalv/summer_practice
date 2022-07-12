@@ -1,0 +1,40 @@
+Users of preppost:  (Total of 9 licenses issued;  Total of 9 licenses in use)
+
+  "preppost" v2022.1230, vendor: ansyslmd
+  floating license
+
+    9909_User1 9909-49.ssp.ru 9909-49.ssp.ru 7576 (v2021.1108) (1055@serv01.ssp.ru/1055 3090), start Thu 7/7 8:55
+    9923_User2 9923-12.ssp.ru 9923-12.ssp.ru 4412 (v2021.0512) (1055@serv01.ssp.ru/1055 5121), start Thu 7/7 7:43
+    9923_User3 9923-6.ssp.ru 9923-6.ssp.ru 8040 (v2021.0512) (1055@serv01.ssp.ru/1055 4348), start Thu 7/7 8:48
+    9923_User4 9923-17.ssp.ru 9923-17.ssp.ru 14220 (v2021.1108) (1055@serv01.ssp.ru/1055 5489), start Tue 7/5 10:44
+    9923_User5 9923-25.ssp.ru 9923-25.ssp.ru 6832 (v2021.0512) (1055@serv01.ssp.ru/1055 3126), start Thu 7/7 8:46
+    9923_User6 9923-19.ssp.ru 9923-19.ssp.ru 2333692 (v2021.0512) (1055@serv01.ssp.ru/1055 3407), start Wed 7/6 8:48
+    9923_User7 9923-20.ssp.ru 9923-20.ssp.ru 10208 (v2021.0512) (1055@serv01.ssp.ru/1055 5238), start Thu 7/7 8:48
+    9923_User7 9923-20.ssp.ru 9923-20.ssp.ru 11240 (v2021.0512) (1055@serv01.ssp.ru/1055 2783), start Thu 7/7 8:45
+    9908_User8 1508-45.ssp.ru 1508-45.ssp.ru 5140 (v2019.1113) (1055@serv01.ssp.ru/1055 709), start Thu 7/7 7:18
+
+Users of rdacis:  (Total of 29 licenses issued;  Total of 0 licenses in use)
+
+Users of acfd_vki:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of acfx_pre:  (Total of 15 licenses issued;  Total of 0 licenses in use)
+
+Users of afsp_gui:  (Total of 12 licenses issued;  Total of 0 licenses in use)
+
+Users of afsp_optigrid:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of afsp_viewmerical:  (Total of 12 licenses issued;  Total of 0 licenses in use)
+
+Users of cfd_base:  (Total of 15 licenses issued;  Total of 6 licenses in use)
+
+  "cfd_base" v2022.1230, vendor: ansyslmd
+  floating license
+
+    9956_User9 9956-7.ssp.ru 9956-7.ssp.ru 8264 (v2021.0512) (1055@serv01.ssp.ru/1055 201), start Thu 7/7 9:19
+    9956_User1 9956-20.ssp.ru 9956-20.ssp.ru 23888 (v2021.0512) (1055@serv01.ssp.ru/1055 5555), start Wed 7/6 16:08
+    9956_User1 9956-20.ssp.ru 9956-20.ssp.ru 18696 (v2021.0512) (1055@serv01.ssp.ru/1055 3368), start Wed 7/6 15:45
+    9956_User2 9956-31.ssp.ru 9956-31.ssp.ru 13336 (v2021.0512) (1055@serv01.ssp.ru/1055 2825), start Thu 7/7 8:47
+    9956_User2 9956-31.ssp.ru 9956-31.ssp.ru 10112 (v2021.0512) (1055@serv01.ssp.ru/1055 2495), start Wed 7/6 8:58
+    9956_User2 9956-31.ssp.ru 9956-31.ssp.ru 7660 (v2021.0512) (1055@serv01.ssp.ru/1055 1347), start Wed 7/6 8:36
+
+Users of cfd_polyflow_ui:  (Total of 12 licenses issued;  Total of 0 licenses in use)

@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Модели в Django</title>
+</head>
+<body class="container">
+<form method="POST" action="create/">
+        {% csrf_token %}
+        <input type="submit" value="Сохранить" >
+    </form>
+    <h2>Список пользователей</h2>
+    <table>
+        <tr><th>Id</th><th>Имя и Отдел</th><th>ПК</th><th>Дата начала</th><th>Кол-во лицензий</th><th>Лицензия</th></tr>
+        {% for session in sessions %}
+        <tr><td>{{ session.id }}</td><td>{{ session.user_id }}</td><td>{{ session.pc_id }}</td><td>{{ session.date_start }}</td><td>{{ session.num_lic }}</td><td>{{ session.lic_id }}<td></tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
